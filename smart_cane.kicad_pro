@@ -661,7 +661,7 @@
         "uuid": "226f2e23-33dc-428c-bfc9-c3230cf8ba49"
       }
     ],
-    "used_designators": "External_Power1-2,GPS1-2,MPU1-2,ESP32\\-S1-2,Audio_Power1,Luna_LiDAR1,Luna_LiDAR\\-1-4,ESP32S3\\-3-4,J1-3,Speaker1,TP1-12,U1,ToF_TMF8806\\-1-4",
+    "used_designators": "External_Power1-2,GPS1-2,MPU1-2,ESP32\\-S1-2,Luna_LiDAR1,Audio_Power1,Luna_LiDAR\\-1-4,ESP32S3\\-3-4,J1-3,U1,TP1-12,Speaker1,ToF_TMF8806\\-1-4",
     "variants": []
   },
   "sheets": [

@@ -4330,7 +4330,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "873bd4f0-69f4-40e8-bdaa-5689ad2be911")
-		(property "Reference" "Audio_Power"
+		(property "Reference" "Audio_Power1"
 			(at 86.36 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4394,7 +4394,7 @@
 		(instances
 			(project "smart_cane"
 				(path "/226f2e23-33dc-428c-bfc9-c3230cf8ba49"
-					(reference "Audio_Power")
+					(reference "Audio_Power1")
 					(unit 1)
 				)
 			)
